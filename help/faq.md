@@ -29,7 +29,7 @@ If your question is not answered below and help is still needed, please contact 
 {{site.data.keyword.knowledgekits_short}} are the individual building blocks that can be used to build applications based on parsed and annotated content from the Watson Content team.
 
 
-## What are {{site.data.keyword.knowledgekits_short}} they for?
+## What are {{site.data.keyword.knowledgekits_short}} for?
 {{site.data.keyword.knowledgekits_short}} can be used to support cognitive systems, train models, and to plug directly into internal and external apps.
 
 
